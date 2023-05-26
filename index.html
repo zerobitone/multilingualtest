@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/main.css">
+    <title id="sitetitle">Namenstest</title>
+</head>
+<body>
+<header>
+    <div class="headertitle">
+        <div class="dropdown">
+            <button class="dropbtn">&#x2261;</button>
+            <div class="dropdown-content">
+                <a href="#de">Deutsch</a>
+                <a href="#en">English</a>
+                <a href="#latin">Latin</a>
+                <a href="#arabic">عربي</a>
+                <a href="#kuril">Русский</a>
+                <a href="#georgian">ქართული</a>
+            </div>
+        </div>
+        <div id="subtitle"><nobr>Benutzereingaben von Namen in verschiedenen Sprachen mit RegEx testen!</nobr></div>
+    </div>
+</header>
+<div id="outer-div" width="100%">
+    <div id="inner-div">
+        <div id="content">
+            <h1 id="title">Willkommen</h1>
+            <p id="message">Hallo, wie geht es dir?</p>
+            <label for="username" id="label">Kenne ich deinen Namen?</label><br /><br />
+            <input type="text" id="username" name="username" required placeholder="Maria"><br /><br />
+            <button id="button">Bestätigen</button>
+            <p id="output"></p>
+        </div>
+    </div>
+</div>
+<script src="js/getLang.js" type="module"></script>
+<script src="js/getName.js" type="module"></script>
+<script src="js/eventListeners.js" type="module"></script>
+<script src="js/main.js" type="module"></script>
+<script src="js/eventListeners.js" type="module"></script>
+
+</body>
+</html>

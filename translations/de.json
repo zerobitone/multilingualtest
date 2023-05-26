@@ -1,0 +1,16 @@
+{
+  "welcomeMessage": "KOMM HINEIN und WILKOMMEN",
+  "errorText1": "Wie bitte? Du bist",
+  "errorText2": "Das macht mich skeptisch!",
+  "errorText3": "Korrigiere",
+  "errorText4": "deine Eingabe! Es kann aber sein, dass dein Name tolle Zeichen hat, die ich nicht verstehe!",
+  "sitetitle": "Namenstest",
+  "subtitle": "Benutzereingaben von Namen in verschiedenen Sprachen mit RegEx testen!",
+  "title": "Willkommen",
+  "message": "Hallo, wie geht es dir?",
+  "label": "Kenne ich deinen Namen?",
+  "placeholder": "Maria",
+  "button": "Bestätigen",
+  "output": "Komm hinein und wilkommen",
+  "pattern": "^[A-ZÄÖÜÉ][a-zA-ZÄÖÜÉéäöüß']+(\\s[A-Z][a-zA-ZÄÖÜäöüß']+)?$"
+}

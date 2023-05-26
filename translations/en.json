@@ -1,0 +1,16 @@
+{
+  "welcomeMessage": "COME IN and WELCOME",
+  "errorText1": "Excuse me? You are",
+  "errorText2": "That makes me skeptical!",
+  "errorText3": "Correct",
+  "errorText4": "Your input! It's possible that your name has great characters that I don't understand!",
+  "sitetitle": "name test",
+  "subtitle": "Test user input of names in different languages with RegEx!",
+  "title": "Welcome",
+  "message": "Hello, how are you?",
+  "label": "do i know your name?",
+  "placeholder": "Maria",
+  "button": "Confirm",
+  "output" : "Come in and welcome",
+  "pattern": "^[A-Z][a-zA-Z']+(\\s[A-Z][a-zA-Z']+)?$"
+}

@@ -1,0 +1,16 @@
+{
+  "grata": "ingredere et salve",
+  "errorText1": "Ignosce?",
+  "errorText2": "Incredulos me facit!",
+  "errorText3": "Recte",
+  "errorText4": "input tuum! Fieri potest ut nomen tuum magnam ingenia non intellego!",
+  "sitetitle": "nomen test",
+  "subtitle": "Test usor initus vocabulorum in variis linguis cum RegEx!",
+  "title": "Salve",
+  "message": "Salve, quid agis?",
+  "label": "Hoc scio nomen tuum?",
+  "placeholder": "Maria",
+  "button": "Confirm",
+  "output": "Ingredere et receperint vos",
+  "pattern": "^[A-Z][a-zA-Z']+(\\s[A-Z][a-zA-Z']+)?$"
+}
